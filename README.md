@@ -6,5 +6,5 @@ Source code for Software Testing and Quality Assurance homework.
 ```bash
 git clone https://github.com/Silverbullet069/bai-tap-kiem-thu-chuc-nang.git
 cd bai-tap-kiem-thu-chuc-nang
-python -m unittest -v <file>
+python -m unittest -v test_<method>.py
 ```
