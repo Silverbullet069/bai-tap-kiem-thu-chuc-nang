@@ -1,6 +1,6 @@
-# Equivalence Partitioning vs Decision Table
+# bai-tap-kiem-thu-chuc-nang
 
-Source code for Software Testing and Quality Assurance homework.
+Source code for Equivalence Partitioning and Decision Table Testing assignments.
 
 ## How to use
 ```bash
